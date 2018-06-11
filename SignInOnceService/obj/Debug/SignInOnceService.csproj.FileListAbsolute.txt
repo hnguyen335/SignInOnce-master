@@ -1,0 +1,36 @@
+C:\Users\nguyen\documents\visual studio 2012\Projects\SignInOnce\SignInOnceService\bin\Debug\App.config
+C:\Users\nguyen\documents\visual studio 2012\Projects\SignInOnce\SignInOnceService\bin\Debug\SignInOnceService.exe.config
+C:\Users\nguyen\documents\visual studio 2012\Projects\SignInOnce\SignInOnceService\bin\Debug\SignInOnceService.exe
+C:\Users\nguyen\documents\visual studio 2012\Projects\SignInOnce\SignInOnceService\bin\Debug\SignInOnceService.pdb
+C:\Users\nguyen\documents\visual studio 2012\Projects\SignInOnce\SignInOnceService\bin\Debug\SignInOnce.dll
+C:\Users\nguyen\documents\visual studio 2012\Projects\SignInOnce\SignInOnceService\bin\Debug\SignInOnce.pdb
+C:\Users\nguyen\documents\visual studio 2012\Projects\SignInOnce\SignInOnceService\obj\Debug\SignInOnceService.csprojResolveAssemblyReference.cache
+C:\Users\nguyen\documents\visual studio 2012\Projects\SignInOnce\SignInOnceService\obj\Debug\SignInOnceService.exe
+C:\Users\nguyen\documents\visual studio 2012\Projects\SignInOnce\SignInOnceService\obj\Debug\SignInOnceService.pdb
+C:\work\SignInOnce\SignInOnceService\bin\Debug\App.config
+C:\work\SignInOnce\SignInOnceService\bin\Debug\SignInOnceService.exe.config
+C:\work\SignInOnce\SignInOnceService\bin\Debug\SignInOnceService.exe
+C:\work\SignInOnce\SignInOnceService\bin\Debug\SignInOnceService.pdb
+C:\work\SignInOnce\SignInOnceService\bin\Debug\SignInOnce.dll
+C:\work\SignInOnce\SignInOnceService\bin\Debug\SignInOnce.pdb
+C:\work\SignInOnce\SignInOnceService\obj\Debug\SignInOnceService.exe
+C:\work\SignInOnce\SignInOnceService\obj\Debug\SignInOnceService.pdb
+C:\work\SignInOnce\SignInOnceService\bin\Debug\log4net.dll
+C:\work\SignInOnce\SignInOnceService\bin\Debug\log4net.pdb
+C:\work\SignInOnce\SignInOnceService\bin\Debug\log4net.xml
+C:\work\SignInOnce\SignInOnceService\bin\Debug\SignInOnce.dll.config
+C:\work\SignInOnce\SignInOnceService\obj\Debug\SignInOnceService.csprojAssemblyReference.cache
+C:\work\SignInOnce\SignInOnceService\obj\Debug\SignInOnceService.csproj.CoreCompileInputs.cache
+C:\work\SignInOnce\SignInOnceService\obj\Debug\SignInOnceService.csproj.CopyComplete
+C:\Users\nobody\Documents\SignInOnce-master\SignInOnceService\bin\Debug\App.config
+C:\Users\nobody\Documents\SignInOnce-master\SignInOnceService\bin\Debug\SignInOnceService.exe.config
+C:\Users\nobody\Documents\SignInOnce-master\SignInOnceService\bin\Debug\SignInOnceService.exe
+C:\Users\nobody\Documents\SignInOnce-master\SignInOnceService\bin\Debug\SignInOnceService.pdb
+C:\Users\nobody\Documents\SignInOnce-master\SignInOnceService\bin\Debug\SignInOnce.dll
+C:\Users\nobody\Documents\SignInOnce-master\SignInOnceService\bin\Debug\SignInOnce.pdb
+C:\Users\nobody\Documents\SignInOnce-master\SignInOnceService\bin\Debug\SignInOnce.dll.config
+C:\Users\nobody\Documents\SignInOnce-master\SignInOnceService\obj\Debug\SignInOnceService.csprojResolveAssemblyReference.cache
+C:\Users\nobody\Documents\SignInOnce-master\SignInOnceService\obj\Debug\SignInOnceService.csproj.CoreCompileInputs.cache
+C:\Users\nobody\Documents\SignInOnce-master\SignInOnceService\obj\Debug\SignInOnceService.csproj.CopyComplete
+C:\Users\nobody\Documents\SignInOnce-master\SignInOnceService\obj\Debug\SignInOnceService.exe
+C:\Users\nobody\Documents\SignInOnce-master\SignInOnceService\obj\Debug\SignInOnceService.pdb

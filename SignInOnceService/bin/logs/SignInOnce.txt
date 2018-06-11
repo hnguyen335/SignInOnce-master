@@ -1,0 +1,5 @@
+2018-06-10 20:25:01,551 [6] DEBUG SignInOnce.SignInService GetFolders SignInOnce.SignInService.GetFolders(C:\Users\nobody\Documents\SignInOnce-master\SignInOnce\SignInService.svc.cs:178) - GetFolders Start
+2018-06-10 20:25:26,058 [6] DEBUG SignInOnce.SignInService GetFolders SignInOnce.SignInService.GetFolders(C:\Users\nobody\Documents\SignInOnce-master\SignInOnce\SignInService.svc.cs:178) - GetFolders Start
+2018-06-10 20:25:26,080 [6] DEBUG SignInOnce.SignInService GetFolders SignInOnce.SignInService.GetFolders(C:\Users\nobody\Documents\SignInOnce-master\SignInOnce\SignInService.svc.cs:209) - GetFolders End
+2018-06-10 20:28:51,455 [8] DEBUG SignInOnce.SignInService GetFolders SignInOnce.SignInService.GetFolders(C:\Users\nobody\Documents\SignInOnce-master\SignInOnce\SignInService.svc.cs:178) - GetFolders Start
+2018-06-10 20:29:26,929 [8] DEBUG SignInOnce.SignInService GetFolders SignInOnce.SignInService.GetFolders(C:\Users\nobody\Documents\SignInOnce-master\SignInOnce\SignInService.svc.cs:178) - GetFolders Start

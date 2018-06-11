@@ -1,0 +1,5 @@
+2018-06-07 15:09:35,563 [10] DEBUG SignInOnce.SignInService showMe SignInOnce.SignInService.showMe(C:\work\SignInOnce\SignInOnce\SignInService.svc.cs:21) - Application [ConsoleApp] Start
+2018-06-07 15:09:35,587 [10] DEBUG SignInOnce.SignInService showMe SignInOnce.SignInService.showMe(C:\work\SignInOnce\SignInOnce\SignInService.svc.cs:27) - showMe() is called
+2018-06-07 15:09:35,591 [10] DEBUG SignInOnce.SignInService showMe SignInOnce.SignInService.showMe(C:\work\SignInOnce\SignInOnce\SignInService.svc.cs:31) - Application [ConsoleApp] End
+2018-06-07 16:09:10,951 [10] DEBUG SignInOnce.SignInService GetFolders SignInOnce.SignInService.GetFolders(C:\work\SignInOnce\SignInOnce\SignInService.svc.cs:94) - GetFolders Start
+2018-06-07 16:09:10,976 [10] INFO SignInOnce.SignInService GetFolders SignInOnce.SignInService.GetFolders(C:\work\SignInOnce\SignInOnce\SignInService.svc.cs:110) - Folders returned successfully.
